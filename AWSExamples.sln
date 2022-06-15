@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.DynamoDB", "AWS.DynamoDB\AWS.DynamoDB.csproj", "{0552F8E0-441D-4C2B-81C3-A6E57E57B8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.SQS", "AWS.SQS\AWS.SQS.csproj", "{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{0552F8E0-441D-4C2B-81C3-A6E57E57B8C9}.Release|x64.Build.0 = Release|Any CPU
 		{0552F8E0-441D-4C2B-81C3-A6E57E57B8C9}.Release|x86.ActiveCfg = Release|Any CPU
 		{0552F8E0-441D-4C2B-81C3-A6E57E57B8C9}.Release|x86.Build.0 = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|x64.Build.0 = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Debug|x86.Build.0 = Debug|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|x64.ActiveCfg = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|x64.Build.0 = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{6DC34EF2-F4ED-4C97-A7CC-5460E42299DB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
