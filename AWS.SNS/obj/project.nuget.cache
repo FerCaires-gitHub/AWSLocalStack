@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TH1BR0F5bp7NcFERSL2kd+HxbC20TeCmRYVG/CafEP6QR4n83sZU4HV9pX2GDMJaHuhIqUgPWTbiOMhm6ZmliA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.SNS\\AWS.SNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.3.75\\awssdk.simplenotificationservice.3.7.3.75.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\bin\Debug\net5.0\AWS.SNS.deps.json
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\bin\Debug\net5.0\AWS.SNS.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\bin\Debug\net5.0\ref\AWS.SNS.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\bin\Debug\net5.0\AWS.SNS.pdb
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.csproj.AssemblyReference.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.AssemblyInfoInputs.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.AssemblyInfo.cs
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\ref\AWS.SNS.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SNS\obj\Debug\net5.0\AWS.SNS.pdb

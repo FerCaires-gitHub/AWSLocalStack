@@ -1,0 +1,12 @@
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\bin\Debug\net5.0\AWS.DynamoDB.deps.json
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\bin\Debug\net5.0\AWS.DynamoDB.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\bin\Debug\net5.0\ref\AWS.DynamoDB.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\bin\Debug\net5.0\AWS.DynamoDB.pdb
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.csproj.AssemblyReference.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.AssemblyInfoInputs.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.AssemblyInfo.cs
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\ref\AWS.DynamoDB.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.DynamoDB\obj\Debug\net5.0\AWS.DynamoDB.pdb

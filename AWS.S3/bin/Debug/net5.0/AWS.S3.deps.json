@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AWS.S3/1.0.0": {
+        "runtime": {
+          "AWS.S3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWS.S3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

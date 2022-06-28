@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "co2+vPgqNeNUIX3gDDFrTvrhuxh65UboVsk6uEgXpdw7Gu3PJvDNjF7n8h5x3o9D9QlSor8divBpTbE6Yy4eGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.Main\\AWS.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.51\\awssdk.dynamodbv2.3.7.3.51.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.s3\\3.7.9.19\\awssdk.s3.3.7.9.19.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.59\\awssdk.secretsmanager.3.7.2.59.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.3.75\\awssdk.simplenotificationservice.3.7.3.75.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.17.21\\awssdk.simplesystemsmanagement.3.7.17.21.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.sqs\\3.7.2.72\\awssdk.sqs.3.7.2.72.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

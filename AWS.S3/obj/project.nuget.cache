@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6XJc2iLXh3/48RMXk24kGpFPyOzwXd2txqKk+ZQXrjRcFzZiFq4R7vZ16zsen+Nd9uXuqVBPt7RLQiFrCXhL1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.S3\\AWS.S3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.s3\\3.7.9.19\\awssdk.s3.3.7.9.19.nupkg.sha512"
+  ],
+  "logs": []
+}

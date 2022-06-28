@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AWS.IoC/1.0.0": {
+        "dependencies": {
+          "AWS.DynamoDB": "1.0.0",
+          "AWS.ParameterStore": "1.0.0",
+          "AWS.S3": "1.0.0",
+          "AWS.SNS": "1.0.0",
+          "AWS.SQS": "1.0.0",
+          "AWS.SecretManager": "1.0.0"
+        },
+        "runtime": {
+          "AWS.IoC.dll": {}
+        }
+      },
+      "AWS.DynamoDB/1.0.0": {
+        "runtime": {
+          "AWS.DynamoDB.dll": {}
+        }
+      },
+      "AWS.ParameterStore/1.0.0": {
+        "runtime": {
+          "AWS.ParameterStore.dll": {}
+        }
+      },
+      "AWS.S3/1.0.0": {
+        "runtime": {
+          "AWS.S3.dll": {}
+        }
+      },
+      "AWS.SecretManager/1.0.0": {
+        "runtime": {
+          "AWS.SecretManager.dll": {}
+        }
+      },
+      "AWS.SNS/1.0.0": {
+        "runtime": {
+          "AWS.SNS.dll": {}
+        }
+      },
+      "AWS.SQS/1.0.0": {
+        "runtime": {
+          "AWS.SQS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWS.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.DynamoDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.ParameterStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.S3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.SecretManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.SNS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWS.SQS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

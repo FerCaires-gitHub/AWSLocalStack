@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PKNefjNPKs8NZfrBWicOM6Dp/XU9CmJs3A3TbQ5hTBP224DZewxFT4EcLsWk+pFD+gVFGcWYOJnPWIyK/VLIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.SecretManager\\AWS.SecretManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.59\\awssdk.secretsmanager.3.7.2.59.nupkg.sha512"
+  ],
+  "logs": []
+}
