@@ -11,6 +11,7 @@ namespace AWS.Main
         public DynamoDBController(ILogger<DynamoDBController> logger)
         {
             _logger = logger;
+            
         }
     }
     
