@@ -1,6 +1,6 @@
 using System;
 
-namespace AWS.SQS
+namespace AWS.Main
 {
     public class WeatherForecast
     {

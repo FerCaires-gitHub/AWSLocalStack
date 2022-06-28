@@ -1,0 +1,1 @@
+aws dynamodb create-table --table-name Carros --attribute-definitions AttributeName=VIN,AttributeType=S --key-schema AttributeName=VIN,KeyType=HASH --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1 --endpoint-url http://localhost:8000

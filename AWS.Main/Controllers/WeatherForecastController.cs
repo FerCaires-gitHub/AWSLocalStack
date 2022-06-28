@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace AWS.SQS.Controllers
+namespace AWS.Main.Controllers
 {
     [ApiController]
     [Route("[controller]")]

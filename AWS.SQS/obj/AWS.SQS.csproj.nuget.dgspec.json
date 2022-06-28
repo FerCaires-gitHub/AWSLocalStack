@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj": {}
+    "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj": {
+    "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj",
+        "projectUniqueName": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj",
         "projectName": "AWS.SQS",
-        "projectPath": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj",
+        "projectPath": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\AWS.SQS.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\obj\\",
+        "outputPath": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.SQS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[3.7.2.69, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

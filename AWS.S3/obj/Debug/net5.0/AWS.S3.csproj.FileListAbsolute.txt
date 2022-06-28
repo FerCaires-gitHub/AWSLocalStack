@@ -1,0 +1,5 @@
+C:\Users\ferna\source\aws_repos\AWSExamples\AWS.S3\obj\Debug\net5.0\AWS.S3.csproj.AssemblyReference.cache
+C:\Users\ferna\source\aws_repos\AWSExamples\AWS.S3\obj\Debug\net5.0\AWS.S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\aws_repos\AWSExamples\AWS.S3\obj\Debug\net5.0\AWS.S3.AssemblyInfoInputs.cache
+C:\Users\ferna\source\aws_repos\AWSExamples\AWS.S3\obj\Debug\net5.0\AWS.S3.AssemblyInfo.cs
+C:\Users\ferna\source\aws_repos\AWSExamples\AWS.S3\obj\Debug\net5.0\AWS.S3.csproj.CoreCompileInputs.cache

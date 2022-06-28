@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj": {}
+    "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj": {
+    "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj",
+        "projectUniqueName": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj",
         "projectName": "AWS.DynamoDB",
-        "projectPath": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj",
+        "projectPath": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\AWS.DynamoDB.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\obj\\",
+        "outputPath": "c:\\Users\\ferna\\source\\aws_repos\\AWSExamples\\AWS.DynamoDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
