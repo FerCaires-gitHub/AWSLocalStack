@@ -1,0 +1,3 @@
+aws dynamodb --endpoint-url http://localhost:4566 create-table --table-name Usuario --attribute-definitions AttributeName=Id,AttributeType=S --key-schema AttributeName=Id,KeyType=HASH --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1 --profile localstack
+
+aws dynamodb list-tables --endpoint-url http://localhost:4566

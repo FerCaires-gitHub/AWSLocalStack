@@ -7,8 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "AWS.SNS/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleNotificationService": "3.7.3.75"
+        },
         "runtime": {
           "AWS.SNS.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.12.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.12.3"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.7.3.75": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.12.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.75"
+          }
         }
       }
     }
@@ -18,6 +40,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.12.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l2P2Tf6FE4eDDAbt6wNMVcPfmJaURMo8n/IO/oWvFi56WdfrQmYur+/QNh4hsRt6DT6CnNbpLpGcMQNLUlOmOQ==",
+      "path": "awssdk.core/3.7.12.3",
+      "hashPath": "awssdk.core.3.7.12.3.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.7.3.75": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PBnAMhxzLpSBavOBnulxeDZq3G6hMS566KnTi45Em4E+xBRLBIvvfrBf5BI/13JtQD2hzRDPW7ZKfBXq8tFc9w==",
+      "path": "awssdk.simplenotificationservice/3.7.3.75",
+      "hashPath": "awssdk.simplenotificationservice.3.7.3.75.nupkg.sha512"
     }
   }
 }

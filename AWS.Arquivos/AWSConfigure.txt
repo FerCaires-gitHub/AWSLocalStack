@@ -1,0 +1,6 @@
+Rodar o comando 
+aws configure --profile localstack
+colocar como usuario: admin
+colocar como senha: admin
+regiao: sa-east-1
+formato: json

@@ -2,11 +2,15 @@ version: '3'
 services:
   localstack:
     container_name: aws_localstack
-    image: localstack/localstack
+    image: localstack/localstack:latest
     environment:
       - SERVICES=sqs,s3,lambda,dynamodb,ssm,secretmanager,sns,rds
       - AWS_DEFAULT_REGION=sa-east-1
+      - AWS_ACCESS_KEY_ID=admin
+      - AWS_SECRET_ACCESS_KEY=admin
       - EDGE_PORT=4566
       - DOCKER_HOST=unix:///var/run/docker.sock
+      - DYNAMODB_SHARE_DB=1
+      - DEBUG=1
     ports:
       - "4566:4566"

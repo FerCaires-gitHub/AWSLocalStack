@@ -2,7 +2,6 @@ C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\bin\Debug\net5.0\AWS.SQS.d
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\bin\Debug\net5.0\AWS.SQS.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\bin\Debug\net5.0\ref\AWS.SQS.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\bin\Debug\net5.0\AWS.SQS.pdb
-C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\obj\Debug\net5.0\AWS.SQS.csproj.AssemblyReference.cache
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\obj\Debug\net5.0\AWS.SQS.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\obj\Debug\net5.0\AWS.SQS.AssemblyInfoInputs.cache
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.SQS\obj\Debug\net5.0\AWS.SQS.AssemblyInfo.cs

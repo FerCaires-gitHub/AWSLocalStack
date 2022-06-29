@@ -7,6 +7,14 @@ C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWS.Main
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWS.Main.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\ref\AWS.Main.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWS.Main.pdb
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.DynamoDBv2.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.SecretsManager.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.SimpleNotificationService.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\AWSSDK.SQS.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
