@@ -2,7 +2,6 @@ C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\bin\Debug\net5.
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\bin\Debug\net5.0\AWS.ParameterStore.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\bin\Debug\net5.0\ref\AWS.ParameterStore.dll
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\bin\Debug\net5.0\AWS.ParameterStore.pdb
-C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\obj\Debug\net5.0\AWS.ParameterStore.csproj.AssemblyReference.cache
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\obj\Debug\net5.0\AWS.ParameterStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\obj\Debug\net5.0\AWS.ParameterStore.AssemblyInfoInputs.cache
 C:\Users\ferna\source\aws_repos\AWSLocalStack\AWS.ParameterStore\obj\Debug\net5.0\AWS.ParameterStore.AssemblyInfo.cs

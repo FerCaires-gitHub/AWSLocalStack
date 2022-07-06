@@ -1,0 +1,5 @@
+aws --endpoint-url=http://localhost:4566 sqs create-queue --queue-name teste
+
+aws --endpoint-url=http://localhost:4566 sqs send-message --queue-url http://localhost:4566/queue/teste --message-body "Mensagem de teste"
+
+aws --endpoint-url=http://localhost:4566 sqs receive-message --queue-url http://localhost:4566/queue/teste --max-number-of-messages 10 

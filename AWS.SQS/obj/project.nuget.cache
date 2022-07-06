@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "PpZZFKp8YKka7lEuodIjvFTJEleCHR2XG/6D4nIgNTq9MPwiDOI4WpHDREiivObqo+8tuS3D8my/s04o3h19qw==",
+  "dgSpecHash": "YCHAT4cx1uPICANtdaUt3pviAM8DZK7Fb5JCqdY2RD8w2FXNzfHsEtwjINxtkofy722CUjNgamjpcCrdvfGVag==",
   "success": true,
   "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.SQS\\AWS.SQS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.sqs\\3.7.2.72\\awssdk.sqs.3.7.2.72.nupkg.sha512"
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.sqs\\3.7.2.72\\awssdk.sqs.3.7.2.72.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
