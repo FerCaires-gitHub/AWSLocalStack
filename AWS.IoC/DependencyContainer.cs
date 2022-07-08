@@ -1,9 +1,14 @@
 ﻿using System;
 using Amazon.DynamoDBv2;
+using Amazon.SimpleSystemsManagement;
 using Amazon.SQS;
 using AWS.DynamoDB.Interfaces;
 using AWS.DynamoDB.Models;
 using AWS.DynamoDB.Services;
+using AWS.ParameterStore.Commands.Requests;
+using AWS.ParameterStore.Commands.Responses;
+using AWS.ParameterStore.Handlers;
+using AWS.ParameterStore.Interfaces;
 using AWS.SQS.Interfaces;
 using AWS.SQS.Services;
 using Microsoft.Extensions.Configuration;
@@ -27,6 +32,12 @@ namespace AWS.IoC
             services.AddScoped<ISQSProducer,SQSProducerService>();
             services.AddScoped<ISQSConsumer,SQSConsumerService>();
             services.AddScoped<ISQSService,SQSService>();
+            #endregion
+            #region ParameterStore
+            services.AddAWSService<IAmazonSimpleSystemsManagement>();
+            services.AddScoped<ICreateParameterHandler,CreateParameterHandler>();
+            services.AddScoped<IGetParameterHandler,GetParameterHandler>();
+            services.AddScoped<IGetAllParametersHandler, GetAllParametersHandler>();
             #endregion
             
         }

@@ -17,9 +17,9 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.core\3.7.12.3</PkgAWSSDK_Core>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.core\3.7.12.5</PkgAWSSDK_Core>
     <PkgAWSSDK_SQS Condition=" '$(PkgAWSSDK_SQS)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.sqs\3.7.2.72</PkgAWSSDK_SQS>
-    <PkgAWSSDK_SimpleSystemsManagement Condition=" '$(PkgAWSSDK_SimpleSystemsManagement)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.simplesystemsmanagement\3.7.17.21</PkgAWSSDK_SimpleSystemsManagement>
+    <PkgAWSSDK_SimpleSystemsManagement Condition=" '$(PkgAWSSDK_SimpleSystemsManagement)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.simplesystemsmanagement\3.7.17.23</PkgAWSSDK_SimpleSystemsManagement>
     <PkgAWSSDK_SimpleNotificationService Condition=" '$(PkgAWSSDK_SimpleNotificationService)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.simplenotificationservice\3.7.3.75</PkgAWSSDK_SimpleNotificationService>
     <PkgAWSSDK_SecretsManager Condition=" '$(PkgAWSSDK_SecretsManager)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.secretsmanager\3.7.2.59</PkgAWSSDK_SecretsManager>
     <PkgAWSSDK_S3 Condition=" '$(PkgAWSSDK_S3)' == '' ">C:\Users\ferna\.nuget\packages\awssdk.s3\3.7.9.19</PkgAWSSDK_S3>

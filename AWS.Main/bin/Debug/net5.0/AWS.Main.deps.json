@@ -327,11 +327,11 @@
           "AWS.Main.dll": {}
         }
       },
-      "AWSSDK.Core/3.7.12.3": {
+      "AWSSDK.Core/3.7.12.5": {
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.7.12.3"
+            "fileVersion": "3.7.12.5"
           }
         },
         "compile": {
@@ -340,7 +340,7 @@
       },
       "AWSSDK.DynamoDBv2/3.7.3.51": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
@@ -354,7 +354,7 @@
       },
       "AWSSDK.Extensions.NETCore.Setup/3.7.2": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3",
+          "AWSSDK.Core": "3.7.12.5",
           "Microsoft.Extensions.Configuration.Abstractions": "2.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
@@ -371,7 +371,7 @@
       },
       "AWSSDK.S3/3.7.9.19": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.S3.dll": {
@@ -385,7 +385,7 @@
       },
       "AWSSDK.SecretsManager/3.7.2.59": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.SecretsManager.dll": {
@@ -399,7 +399,7 @@
       },
       "AWSSDK.SimpleNotificationService/3.7.3.75": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
@@ -411,14 +411,14 @@
           "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {}
         }
       },
-      "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
+      "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.7.17.21"
+            "fileVersion": "3.7.17.23"
           }
         },
         "compile": {
@@ -427,7 +427,7 @@
       },
       "AWSSDK.SQS/3.7.2.72": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.SQS.dll": {
@@ -544,7 +544,7 @@
           "AWS.SNS": "1.0.0",
           "AWS.SQS": "1.0.0",
           "AWS.SecretManager": "1.0.0",
-          "AWSSDK.Core": "3.7.12.3",
+          "AWSSDK.Core": "3.7.12.5",
           "AWSSDK.Extensions.NETCore.Setup": "3.7.2"
         },
         "runtime": {
@@ -556,7 +556,7 @@
       },
       "AWS.ParameterStore/1.0.0": {
         "dependencies": {
-          "AWSSDK.SimpleSystemsManagement": "3.7.17.21"
+          "AWSSDK.SimpleSystemsManagement": "3.7.17.23"
         },
         "runtime": {
           "AWS.ParameterStore.dll": {}
@@ -2316,12 +2316,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AWSSDK.Core/3.7.12.3": {
+    "AWSSDK.Core/3.7.12.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-l2P2Tf6FE4eDDAbt6wNMVcPfmJaURMo8n/IO/oWvFi56WdfrQmYur+/QNh4hsRt6DT6CnNbpLpGcMQNLUlOmOQ==",
-      "path": "awssdk.core/3.7.12.3",
-      "hashPath": "awssdk.core.3.7.12.3.nupkg.sha512"
+      "sha512": "sha512-N0eY87bXXlKDJqO1iZmNLXCasXM8tdD9VLFGVnctm6UROY0gBaYClTobncM2TXyPIkMPxfNUBUbMOMRk1QYRBQ==",
+      "path": "awssdk.core/3.7.12.5",
+      "hashPath": "awssdk.core.3.7.12.5.nupkg.sha512"
     },
     "AWSSDK.DynamoDBv2/3.7.3.51": {
       "type": "package",
@@ -2358,12 +2358,12 @@
       "path": "awssdk.simplenotificationservice/3.7.3.75",
       "hashPath": "awssdk.simplenotificationservice.3.7.3.75.nupkg.sha512"
     },
-    "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
+    "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IE4ZU5kuS81JSkd/eyTOkwRekD8LGJ8ZHYCz7yxd6kZ6boWaAvCoA49EdJsW3lgEWskchDn4CW5F9sYYNbEnFA==",
-      "path": "awssdk.simplesystemsmanagement/3.7.17.21",
-      "hashPath": "awssdk.simplesystemsmanagement.3.7.17.21.nupkg.sha512"
+      "sha512": "sha512-DWx7almv6x0+0YVDMDrUX9MCAM6I8qKTagdhFDFfGlSjJzbCx8hnz/ankAZq8WvX0be1WgI+WMMydMYR070cxQ==",
+      "path": "awssdk.simplesystemsmanagement/3.7.17.23",
+      "hashPath": "awssdk.simplesystemsmanagement.3.7.17.23.nupkg.sha512"
     },
     "AWSSDK.SQS/3.7.2.72": {
       "type": "package",

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tq6kO6PiTqQa71gHObeGbDdQlvo//grHnHCtMowkuu7JxdrR2KgoVc+46mK/Om0x0Pt67DvMEkP5GlkH4zX3Ow==",
+  "dgSpecHash": "FHmwxAOO6Fa9zgLMaZatZsmMj/2TpW/VUxxZsSIM0FcaiyguSOkreSvNq2iXVVJ09NvnHuqRQirAMjEluNPvQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ferna\\source\\aws_repos\\AWSLocalStack\\AWS.ParameterStore\\AWS.ParameterStore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.3\\awssdk.core.3.7.12.3.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.17.21\\awssdk.simplesystemsmanagement.3.7.17.21.nupkg.sha512"
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.core\\3.7.12.5\\awssdk.core.3.7.12.5.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.17.23\\awssdk.simplesystemsmanagement.3.7.17.23.nupkg.sha512"
   ],
   "logs": []
 }

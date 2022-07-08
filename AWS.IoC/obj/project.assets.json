@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "AWSSDK.Core/3.7.12.3": {
+      "AWSSDK.Core/3.7.12.5": {
         "type": "package",
         "compile": {
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
@@ -74,10 +74,10 @@
           "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {}
         }
       },
-      "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
+      "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
         "type": "package",
         "dependencies": {
-          "AWSSDK.Core": "[3.7.12.3, 4.0.0)"
+          "AWSSDK.Core": "[3.7.12.5, 4.0.0)"
         },
         "compile": {
           "lib/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll": {}
@@ -194,7 +194,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "AWSSDK.SimpleSystemsManagement": "3.7.17.21"
+          "AWSSDK.SimpleSystemsManagement": "3.7.17.23"
         },
         "compile": {
           "bin/placeholder/AWS.ParameterStore.dll": {}
@@ -259,15 +259,15 @@
     }
   },
   "libraries": {
-    "AWSSDK.Core/3.7.12.3": {
-      "sha512": "l2P2Tf6FE4eDDAbt6wNMVcPfmJaURMo8n/IO/oWvFi56WdfrQmYur+/QNh4hsRt6DT6CnNbpLpGcMQNLUlOmOQ==",
+    "AWSSDK.Core/3.7.12.5": {
+      "sha512": "N0eY87bXXlKDJqO1iZmNLXCasXM8tdD9VLFGVnctm6UROY0gBaYClTobncM2TXyPIkMPxfNUBUbMOMRk1QYRBQ==",
       "type": "package",
-      "path": "awssdk.core/3.7.12.3",
+      "path": "awssdk.core/3.7.12.5",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "awssdk.core.3.7.12.3.nupkg.sha512",
+        "awssdk.core.3.7.12.5.nupkg.sha512",
         "awssdk.core.nuspec",
         "lib/net35/AWSSDK.Core.dll",
         "lib/net35/AWSSDK.Core.pdb",
@@ -405,16 +405,16 @@
         "tools/uninstall.ps1"
       ]
     },
-    "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
-      "sha512": "IE4ZU5kuS81JSkd/eyTOkwRekD8LGJ8ZHYCz7yxd6kZ6boWaAvCoA49EdJsW3lgEWskchDn4CW5F9sYYNbEnFA==",
+    "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
+      "sha512": "DWx7almv6x0+0YVDMDrUX9MCAM6I8qKTagdhFDFfGlSjJzbCx8hnz/ankAZq8WvX0be1WgI+WMMydMYR070cxQ==",
       "type": "package",
-      "path": "awssdk.simplesystemsmanagement/3.7.17.21",
+      "path": "awssdk.simplesystemsmanagement/3.7.17.23",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "analyzers/dotnet/cs/AWSSDK.SimpleSystemsManagement.CodeAnalysis.dll",
-        "awssdk.simplesystemsmanagement.3.7.17.21.nupkg.sha512",
+        "awssdk.simplesystemsmanagement.3.7.17.23.nupkg.sha512",
         "awssdk.simplesystemsmanagement.nuspec",
         "lib/net35/AWSSDK.SimpleSystemsManagement.dll",
         "lib/net35/AWSSDK.SimpleSystemsManagement.pdb",
@@ -641,7 +641,7 @@
       "AWS.SNS >= 1.0.0",
       "AWS.SQS >= 1.0.0",
       "AWS.SecretManager >= 1.0.0",
-      "AWSSDK.Core >= 3.7.12.3",
+      "AWSSDK.Core >= 3.7.12.5",
       "AWSSDK.Extensions.NETCore.Setup >= 3.7.2"
     ]
   },
@@ -710,7 +710,7 @@
         "dependencies": {
           "AWSSDK.Core": {
             "target": "Package",
-            "version": "[3.7.12.3, )"
+            "version": "[3.7.12.5, )"
           },
           "AWSSDK.Extensions.NETCore.Setup": {
             "target": "Package",

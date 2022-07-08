@@ -129,7 +129,7 @@
           "dependencies": {
             "AWSSDK.Core": {
               "target": "Package",
-              "version": "[3.7.12.3, )"
+              "version": "[3.7.12.5, )"
             },
             "AWSSDK.Extensions.NETCore.Setup": {
               "target": "Package",
@@ -272,7 +272,7 @@
           "dependencies": {
             "AWSSDK.SimpleSystemsManagement": {
               "target": "Package",
-              "version": "[3.7.17.21, )"
+              "version": "[3.7.17.23, )"
             }
           },
           "imports": [

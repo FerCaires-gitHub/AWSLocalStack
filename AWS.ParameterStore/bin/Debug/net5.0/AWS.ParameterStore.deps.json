@@ -8,28 +8,28 @@
     ".NETCoreApp,Version=v5.0": {
       "AWS.ParameterStore/1.0.0": {
         "dependencies": {
-          "AWSSDK.SimpleSystemsManagement": "3.7.17.21"
+          "AWSSDK.SimpleSystemsManagement": "3.7.17.23"
         },
         "runtime": {
           "AWS.ParameterStore.dll": {}
         }
       },
-      "AWSSDK.Core/3.7.12.3": {
+      "AWSSDK.Core/3.7.12.5": {
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.7.12.3"
+            "fileVersion": "3.7.12.5"
           }
         }
       },
-      "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
+      "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
         "dependencies": {
-          "AWSSDK.Core": "3.7.12.3"
+          "AWSSDK.Core": "3.7.12.5"
         },
         "runtime": {
           "lib/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.7.17.21"
+            "fileVersion": "3.7.17.23"
           }
         }
       }
@@ -41,19 +41,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AWSSDK.Core/3.7.12.3": {
+    "AWSSDK.Core/3.7.12.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-l2P2Tf6FE4eDDAbt6wNMVcPfmJaURMo8n/IO/oWvFi56WdfrQmYur+/QNh4hsRt6DT6CnNbpLpGcMQNLUlOmOQ==",
-      "path": "awssdk.core/3.7.12.3",
-      "hashPath": "awssdk.core.3.7.12.3.nupkg.sha512"
+      "sha512": "sha512-N0eY87bXXlKDJqO1iZmNLXCasXM8tdD9VLFGVnctm6UROY0gBaYClTobncM2TXyPIkMPxfNUBUbMOMRk1QYRBQ==",
+      "path": "awssdk.core/3.7.12.5",
+      "hashPath": "awssdk.core.3.7.12.5.nupkg.sha512"
     },
-    "AWSSDK.SimpleSystemsManagement/3.7.17.21": {
+    "AWSSDK.SimpleSystemsManagement/3.7.17.23": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IE4ZU5kuS81JSkd/eyTOkwRekD8LGJ8ZHYCz7yxd6kZ6boWaAvCoA49EdJsW3lgEWskchDn4CW5F9sYYNbEnFA==",
-      "path": "awssdk.simplesystemsmanagement/3.7.17.21",
-      "hashPath": "awssdk.simplesystemsmanagement.3.7.17.21.nupkg.sha512"
+      "sha512": "sha512-DWx7almv6x0+0YVDMDrUX9MCAM6I8qKTagdhFDFfGlSjJzbCx8hnz/ankAZq8WvX0be1WgI+WMMydMYR070cxQ==",
+      "path": "awssdk.simplesystemsmanagement/3.7.17.23",
+      "hashPath": "awssdk.simplesystemsmanagement.3.7.17.23.nupkg.sha512"
     }
   }
 }
